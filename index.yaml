@@ -3,12 +3,22 @@ entries:
   myfirsthelm:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-03-22T20:07:24.424200362+03:00"
+    created: "2023-03-23T11:59:45.885512697+03:00"
     description: A Helm chart for Kubernetes
-    digest: 6ebc4543d4fac7e8c71ab1d95f068e4a963c41dceb2aef180a660dbd8656caea
+    digest: 64c05723f800a60e7e192592787e1c01f5ef7d76e67f9a61245cafe82908d30d
     name: myfirsthelm
     type: application
     urls:
-    - https://slapsh.github.io/test-helm-repo1/myfirsthelm-0.1.0.tgz
+    - myfirsthelm-0.1.2.tgz
+    version: 0.1.2
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-03-23T11:59:45.885196252+03:00"
+    description: A Helm chart for Kubernetes
+    digest: a2bc43da6331dd1d68ccb35de5b068a0670b7884ab2f3e8dad0cb622e18e012a
+    name: myfirsthelm
+    type: application
+    urls:
+    - myfirsthelm-0.1.0.tgz
     version: 0.1.0
-generated: "2023-03-22T20:07:24.423698192+03:00"
+generated: "2023-03-23T11:59:45.884557713+03:00"
